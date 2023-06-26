@@ -1,5 +1,5 @@
 # my-todo-app
-This is a simple todo application that is able to display all todo items and highlight the selected iteam.
+This is a simple todo application that is able to display all todo items and highlight the selected item.
 
 ### Built With
 * [![React][React.js]][React-url]
